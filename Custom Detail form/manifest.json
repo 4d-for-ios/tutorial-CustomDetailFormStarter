@@ -1,0 +1,16 @@
+{
+  "type": "detailform",
+  "name": "Custom Detail form",
+  "renderer": 2,  
+  "hOffset": 91, 
+  "fields": {
+    "count": 1,
+      "max": 0
+       },
+  "assets": {
+    "size": {
+      "width": 16,
+      "height": 16
+    }
+  }
+}
